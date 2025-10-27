@@ -40,7 +40,7 @@ Install the following software. Use default install options, with one exception.
 1. [VSCode](https://code.visualstudio.com/download)
 2. [Python 3.12.x](https://www.python.org/downloads/)
 3. [GIT 2.x.x +](https://git-scm.com/downloads)     (blocked on school network.
-   For windows use the install file on teams: https://schoolsnsw.sharepoint.com/:u:/r/sites/11SoftwareEngineering-2024-Common/Class%20Materials/HSC%20Task%201/Task%201%20-%20Software%20Install%20Files/Git-2.47.0.2-64-bit.exe?csf=1&web=1&e=GJGxZv)
+   For windows use the install file on teams: https://schoolsnsw.sharepoint.com/:u:/r/sites/SE1-2026HSC/Class%20Materials/0.2%20Software%20Downloads/Git-2.49.0-64-bit.exe?csf=1&web=1&e=i95YmS
    For mac install via homebrew (install homebrew here https://brew.sh/); then via homebrew:
    ![GIT install on mac via homebrew](/docs/README_resources/gitInstallViaHomebrew.PNG "GIT install on mac via homebrew")
 
